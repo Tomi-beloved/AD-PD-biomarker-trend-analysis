@@ -17,8 +17,6 @@ This helps narrow down:
 * Foundational targets for drug or therapy development
 * Areas where scientific consensus is emerging
 
----
-
 ## **Research Aims**
 
 1. Identify the most frequently reported genes and proteins in AD and PD studies conducted on European populations.
@@ -26,8 +24,6 @@ This helps narrow down:
 3. Determine if regional patterns exist (e.g., certain genes studied more in Western vs Eastern Europe).
 4. Provide a foundation for precision medicine, where future therapies can be tailored to regions with known biomarker patterns.
 5. Build a reproducible pipeline using open-source tools and public datasets.
-
----
 
 ## **Why This Research Matters**
 
@@ -38,8 +34,6 @@ By identifying common, repeatedly studied biomarkers, this project provides:
 * A roadmap for future molecular studies
 * Insight into where scientific consensus is emerging
 * A foundation for precision therapies for Europe
-
----
 
 ## 🔎 **NCBI Search Queries (For Dataset Collection)**
 
@@ -61,5 +55,3 @@ queries search on **NCBI GEO**, **PubMed**, or **SRA**:
 
 ```
 ("Alzheimer" OR "Parkinson") AND "Homo sapiens" AND "expression profiling" AND ("brain" OR "blood")
-
----
